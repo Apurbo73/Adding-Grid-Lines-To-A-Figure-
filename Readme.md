@@ -1,8 +1,4 @@
 ### Adding Grid Lines To A Figure 
-
-
-Here’s a clear, step-by-step explanation of what your Python code is doing:
-
 ---
 
 ## **1. Importing Required Libraries**
@@ -116,4 +112,3 @@ plt.show()
 
 ---
 
-If you'd like, I can also explain how to add markers, colors, or convert the graph into a bar chart.
